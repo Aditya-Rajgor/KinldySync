@@ -54,7 +54,7 @@ def main():
                 "RRULE:FREQ=DAILY;COUNT=4"
             ],
             "attendees": [
-                {"email": "adityagorman@gmail.com"}
+                {"email": "example@gmail.com"}
             ]
         }
 
