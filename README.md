@@ -28,3 +28,5 @@ Failed to retrieve transactions: 403
  You need to be part of the PayPal Partner Program for the same.
  Please reach out to your Partner Manager for more information.","debug_id":"","details":[],"links":[]}
 ```
+The error suggests that access to the Transaction Search API is restricted to those in the PayPal Partner Program. 
+You will need to enroll in this program if you plan to make API calls on behalf of other PayPal accounts.
